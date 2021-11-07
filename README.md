@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GamerIndie
+- 👋 Hi, I’m Lucas Alberto Longo
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning all i can learn ;)
-- 📫 How to reach me you can find me in my instagram: loonguinho
+- 📫 How to reach me you can find me in discord: Loonguinho#4872
  
 I'm a begginer at programming and i'm looking to expand my horizonts at game development :)
 
